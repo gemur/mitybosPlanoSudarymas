@@ -1,0 +1,26 @@
+Naturalus jogurtas, 4.5, 3.8, 82, forBreakfast
+Avizine kose su medumi, 15.0, 4.0, 85, forBreakfast
+Liesa jautiena su ridikais bei ziediniais kopustais, 25.0, 10.0, 180, 0
+Darzoviu sriuba, 4.7, 0.9, 25, 0
+Zuvis grietineles padaze, 1.5, 18.0, 145, 0
+Bananas, 12.0, 0.8, 58, forBreakfast
+Virtas kiausinis, 2.3, 10.0, 168, forBreakfast
+Kriause, 7.0, 0.3, 38, forBreakfast
+Lasisa su pomidorais, 21.0, 3.5, 145, 0
+Vistiena su ryziais ir kepintomis darzovemis, 3.0, 23.0, 150, 0
+Darzoviu salotos, 15.0, 1.0, 152, 0
+Omletas, 0.6, 11.0, 153, forBreakfast
+Pomidoru sriuba su svogunais, 7.0, 0.8, 29, forBreakfast
+Vistienos šaslykas su pupelemis ir brokoliais, 2.0, 17.0, 150, 0
+Tuno salotos, 2.0, 5.0, 150, 0
+Avizine kose, 13.0, 3.0, 80, forBreakfast
+Avokadas, 6.0, 2.0, 224, forBreakfast
+Juros lydeka su darzovemis ir ryziais, 19.0, 16.0, 130, 0
+Ikrai su avokadu, 10.0, 30.0, 300, forBreakfast
+Vaisiu salotos, 13.0, 0.5, 50, 0
+Sumustinis su lasisa ir kiausiniu, 14.0, 7.0, 193, forBreakfast
+Liesa varske, 3.9, 16.2, 85, forBreakfast
+Moliugu sriuba, 48.0, 7.0, 241, 0
+Lietiniai su varske, 33.0, 13.0, 267, forBreakfast
+Cezario salotos, 4.3, 3.2, 44, 0
+Varskes apkepas su razinomis, 13.0, 14.0, 171, 0
